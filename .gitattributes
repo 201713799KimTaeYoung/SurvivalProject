@@ -1,1 +1,3 @@
 README.md filter=lfs diff=lfs merge=lfs -text
+SurvivalProject filter=lfs diff=lfs merge=lfs -text
+행복한다람쥐단_김태영_경기대학교_개인별[[:space:]]프로젝트[[:space:]]결과[[:space:]]보고서.hwp filter=lfs diff=lfs merge=lfs -text
